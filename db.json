@@ -1,0 +1,57 @@
+{
+  "pizza-size": [
+  {
+    "id": 1,
+    "text": "Pequeno",
+    "price": 20,
+    "time": 15
+
+  },
+  {
+    "id": 2,
+    "text": "Médio",
+    "price": 30,
+    "time": 20
+  },
+  {
+    "id": 3,
+    "text": "Grande",
+    "price": 40,
+    "time": 25
+  }],
+  "pizza-flavour": [
+  {
+    "id": 1,
+    "text": "Calabresa",
+    "time": 0
+  },
+  {
+    "id": 2,
+    "text": "Marguerita",
+    "time": 0
+  },
+  {
+    "id": 3,
+    "text": "Portuguesa",
+    "time": 5
+  }],
+  "pizza-extra": [
+  {
+    "id": 1,
+    "text": "Extra Bacon",
+    "price": 3,
+    "time": 0
+  },
+  {
+    "id": 2,
+    "text": "Sem Cebola",
+    "price": 0,
+    "time": 0
+  },
+  {
+    "id": 3,
+    "text": "Borda Recheada",
+    "price": 5,
+    "time": 5
+  }]
+}
